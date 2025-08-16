@@ -2,7 +2,7 @@ spring:
   datasource:
     url: jdbc:oracle:thin:@localhost:1521:xe
     username: system
-    password: "0614"
+    password: system
   jpa:
     hibernate:
       ddl-auto: update
